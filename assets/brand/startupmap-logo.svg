@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">StartupMap logo</title>
+  <desc id="desc">An abstract map pin with an upward route and connected network nodes.</desc>
+  <defs>
+    <clipPath id="pinClip">
+      <path d="M512 84 C300 84 136 248 136 458 C136 632 290 786 512 978 C734 786 888 632 888 458 C888 248 724 84 512 84 Z"/>
+    </clipPath>
+  </defs>
+  <path fill="#0A2A66" d="M512 84 C300 84 136 248 136 458 C136 632 290 786 512 978 C734 786 888 632 888 458 C888 248 724 84 512 84 Z"/>
+  <g clip-path="url(#pinClip)">
+    <path fill="#11B8B2" d="M512 512 930 214v820H512Z"/>
+    <path fill="#08204F" d="m512 978 205-166-205-132-205 132Z"/>
+    <path fill="#0D3C83" d="M512 84h418v170L512 512Z" opacity=".18"/>
+  </g>
+  <path d="M512 270c-78 0-138 59-138 139 0 89 138 206 138 206s138-117 138-206c0-80-60-139-138-139Z" fill="none" stroke="#F7FBFF" stroke-width="24" stroke-linejoin="round"/>
+  <path d="M286 738 724 314" fill="none" stroke="#F7FBFF" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="286" cy="738" r="34" fill="#F7FBFF"/>
+  <circle cx="286" cy="738" r="18" fill="#0A2A66"/>
+  <circle cx="512" cy="520" r="34" fill="#F7FBFF"/>
+  <circle cx="512" cy="520" r="18" fill="#11B8B2"/>
+  <circle cx="724" cy="314" r="34" fill="#F7FBFF"/>
+  <circle cx="724" cy="314" r="18" fill="#FF5A5F"/>
+  <path d="m724 314 72-92-10 65 62 9-124 18Z" fill="#FF5A5F" stroke="#F7FBFF" stroke-width="12" stroke-linejoin="round"/>
+</svg>
