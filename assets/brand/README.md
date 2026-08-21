@@ -1,6 +1,6 @@
 # StartupMap logo assets
 
-The third StartupMap mark is a **constellation network**: four opportunity nodes surround a central four-point star, representing connected founders, ideas, and discovery. It is intentionally free of map pins, route arrows, and container tiles.
+The current StartupMap mark is a **minimal folded map with one location pin** placed prominently above it. The three-panel map suggests an ecosystem with different regions, while the single pin keeps the symbol easy to recognize and remember.
 
 The editable source is `startupmap-logo.svg`. The PNG files are transparent exports for common product surfaces.
 
@@ -16,8 +16,8 @@ The editable source is `startupmap-logo.svg`. The PNG files are transparent expo
 
 | Color | Hex | Role |
 |---|---|---|
-| Ink navy | `#182B63` | Network geometry and central mark |
-| Violet | `#7C4DFF` | Opportunity nodes |
-| Mint | `#63D7B3` | Opportunity node accent |
-| Coral | `#FF6B67` | Central discovery star |
-| Off-white | `#F7FBFF` | Node contrast |
+| Navy | `#112A5C` | Primary map surface |
+| Blue | `#1C407C` | Folded map panel |
+| Teal | `#18B7B1` | Highlighted map panel |
+| Coral | `#FF625E` | Location pin |
+| Off-white | `#F7FBFF` | Pin outline and center |
