@@ -1,6 +1,6 @@
 # StartupMap logo assets
 
-The StartupMap mark combines a **map pin**, an **upward route**, and **connected network nodes** to represent startup discovery, geography, and ecosystem growth.
+The replacement StartupMap mark is deliberately simpler than the first direction: a **rising path**, **three waypoints**, and a **north star** inside a rounded navy tile. It represents startup momentum, discovery, and progress without using a literal map pin.
 
 The editable source is `startupmap-logo.svg`. The PNG files are transparent exports for common product surfaces.
 
@@ -16,7 +16,7 @@ The editable source is `startupmap-logo.svg`. The PNG files are transparent expo
 
 | Color | Hex | Role |
 |---|---|---|
-| Navy | `#0A2A66` | Primary mark |
-| Teal | `#11B8B2` | Growth and map surface |
-| Coral | `#FF5A5F` | Direction and emphasis |
-| White | `#F7FBFF` | Route and node contrast |
+| Navy | `#0B1F49` | Primary tile |
+| Mint | `#63D7B3` | Active waypoint |
+| Coral | `#FF6B67` | Discovery star |
+| Off-white | `#F7FBFF` | Route and node contrast |
