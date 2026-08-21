@@ -1,6 +1,6 @@
 # StartupMap logo assets
 
-The current StartupMap mark is a **minimal folded map with one location pin** placed prominently above it. The three-panel map suggests an ecosystem with different regions, while the single pin keeps the symbol easy to recognize and remember.
+The current StartupMap mark is an **abstract interlocking ribbon**: two forms create a compact forward-moving loop, with a coral diamond accent at the intersection. It represents connection, discovery, and momentum without relying on a literal map or pin.
 
 The editable source is `startupmap-logo.svg`. The PNG files are transparent exports for common product surfaces.
 
@@ -16,8 +16,6 @@ The editable source is `startupmap-logo.svg`. The PNG files are transparent expo
 
 | Color | Hex | Role |
 |---|---|---|
-| Navy | `#112A5C` | Primary map surface |
-| Blue | `#1C407C` | Folded map panel |
-| Teal | `#18B7B1` | Highlighted map panel |
-| Coral | `#FF625E` | Location pin |
-| Off-white | `#F7FBFF` | Pin outline and center |
+| Navy | `#102A5B` | Primary ribbon |
+| Teal | `#18B7B1` | Interlocking ribbon |
+| Coral | `#FF625E` | Accent diamond |

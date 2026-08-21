@@ -1,11 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
-  <title id="title">StartupMap map and pin logo</title>
-  <desc id="desc">A simple folded map with one location pin above it.</desc>
-  <path d="M132 300 326 238l196 62 196-62 174 62v424l-174 62-196-62-196 62-194-62Z" fill="#112A5C"/>
-  <path d="m326 238 196 62v424l-196-62Z" fill="#18B7B1"/>
-  <path d="m522 300 196-62v424l-196 62Z" fill="#1C407C"/>
-  <path d="M326 238v424M522 300v424M718 238v424" fill="none" stroke="#0A214E" stroke-width="14" opacity=".7"/>
-  <path d="M512 132c-102 0-184 82-184 184 0 129 184 298 184 298s184-169 184-298c0-102-82-184-184-184Z" fill="#FF625E" stroke="#F7FBFF" stroke-width="18" stroke-linejoin="round"/>
-  <circle cx="512" cy="316" r="56" fill="#F7FBFF"/>
-  <circle cx="512" cy="316" r="24" fill="#FF625E"/>
+  <title id="title">StartupMap abstract ribbon logo</title>
+  <desc id="desc">Two interlocking ribbons form a compact forward-moving symbol with a coral accent.</desc>
+  <path d="M716 226 C602 96 350 94 252 252 C170 384 300 474 512 512 C724 550 854 640 772 774 C678 928 430 924 300 792" fill="none" stroke="#102A5B" stroke-width="142" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M308 230 C198 388 310 474 512 512 C716 550 828 640 714 792" fill="none" stroke="#18B7B1" stroke-width="142" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M758 164 818 224 758 284 698 224Z" fill="#FF625E"/>
 </svg>
